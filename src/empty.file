@@ -2,3 +2,4 @@ ha-ha it is not empty
 
 git commit -m"without spase"
 git commit -m "with spase"
+git commit -m 'string as symbol'
